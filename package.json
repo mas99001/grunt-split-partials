@@ -1,0 +1,23 @@
+{
+  "name": "grunt-split-partials",
+  "version": "1.0.0",
+  "description": "takes one or more input files as input and split them based on a handler name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mas99001/grunt-split-partials.git"
+  },
+  "keywords": [
+    "split",
+    "html"
+  ],
+  "author": "Aditya Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mas99001/grunt-split-partials/issues"
+  },
+  "homepage": "https://github.com/mas99001/grunt-split-partials#readme"
+}
