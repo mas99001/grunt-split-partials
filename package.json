@@ -1,6 +1,6 @@
 {
   "name": "grunt-split-partials",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[DEPRECATED] takes one or more input files as input and split them based on a handler name",
   "main": "index.js",
   "scripts": {
