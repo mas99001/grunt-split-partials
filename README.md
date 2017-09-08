@@ -1,1 +1,2 @@
 # grunt-split-partials
+[DEPRECATED] 
